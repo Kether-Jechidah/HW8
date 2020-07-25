@@ -19,4 +19,5 @@ HomeWork8 - Question Answering with Cognitive Graph
 4.论文中将认知科学的理论模型应用在机器学习研究中，使得两套系统sys1 sys2相互依存，sys2决策出来的数据引导sys1进行更好的实体提取。
 
 5.CogQA系统的编程流程如下图：
+
 ![CogQA系统流程](https://github.com/Kether-Jechidah/HW8/blob/master/%E5%BC%95%E7%94%A8%E5%85%AC%E5%BC%8F%E5%8F%8A%E7%90%86%E8%AE%BA/COGQA%E7%B3%BB%E7%BB%9F%E6%B5%81%E7%A8%8B.png)
